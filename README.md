@@ -50,8 +50,8 @@ I am currently working on my Master's thesis: **Development of a Screening Model
 
 I am always open to discussing global health data science, statistical methodologies, or collaborative research opportunities.
 
-*   💼 **LinkedIn:** [linkedin.com/in/anita-ogero](https://www.linkedin.com/in/your-profile-link)
-*   ✉️ **Email:** [anita.ogero@example.com](mailto:anita.ogero@example.com)
+*   💼 **LinkedIn:** [(https://www.linkedin.com/in/anita-kerubo-942938142/)]
+*   ✉️ **Email:** [anitakerubo2@gmail.com]
 
 <br>
 <div align="center">
