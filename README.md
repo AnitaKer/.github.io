@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm Anita Kerubo Ogero</h1>
+  <h1>Hi there! 👋</h1>
   <h3>Statistician | Data Scientist | Public Health Researcher</h3>
   <p><i>Building reliable, contextually valid predictive models for health in LMICs.</i></p>
 </div>
